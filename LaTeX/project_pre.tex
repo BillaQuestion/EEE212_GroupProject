@@ -22,14 +22,16 @@
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
 \definecolor{codepurple}{rgb}{0.58,0,0.82}
 \definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\definecolor{codeone}{rgb}{0.51,0.55,0.27}
 
 \lstset{
 	frame=tb,
 	language=C,
 	breaklines = true,
 	backgroundcolor=\color{backcolour},   
-	commentstyle=\color{codegreen},
-	keywordstyle=\color{magenta},
+	commentstyle=\color{gray},
+	keywordstyle= \color{codeone},
+	%\color{magenta},
 	numberstyle=\tiny\color{codegray},
 	stringstyle=\color{codepurple},
 	basicstyle=\footnotesize,
@@ -129,11 +131,11 @@
 {
 	\begin{frame}
 		\frametitle{Thermoelectric Cooler: How it works?}
-%		\begin{center}
-%                                     ,width=0.8\linewidth]{12                peltcool/pelt
-%		\end{center}
+		\begin{center}
+			\animategraphics[autoplay,loop, width = 0.8\linewidth]{12}{images/peltcool/peltcool-}{0}{61}                          %,width=0.8\linewidth]{12                peltcool/pelt
+		\end{center}
 
-			\animategraphics[autoplay,loop]{24}{images/cooler/cooler-}{0}{61}
+			
 	\end{frame}
 }
 {
@@ -153,7 +155,7 @@
 	\end{frame}
 }
 {
-	\begin{frame}%[h!]
+	\begin{frame}[!h]
 		\frametitle{Magnetic Latching Relay}
 		\begin{figure}
 			\includegraphics[scale=0.15]{images/relay}
@@ -190,13 +192,12 @@
 }
 {
 	\begin{frame}{Arduino Code}
-		\lstinputlisting[language = C++, lastline = 17]{code/F1VTS29IVO5D4XS.ino}
-	
+		\lstinputlisting[language = C++, lastline = 17]{code/F1VTS29IVO5D4XS/F1VTS29IVO5D4XS.ino}
 	\end{frame}
 }
 {
 	\begin{frame}{Arduino Code}
-		\lstinputlisting[language = C++, firstline = 20]{code/F1VTS29IVO5D4XS.ino}
+		\lstinputlisting[language = C++, firstline = 20]{code/F1VTS29IVO5D4XS/F1VTS29IVO5D4XS.ino}
 	
 	\end{frame}
 }
@@ -273,16 +274,22 @@
 
 \section{Conclusion}
 {
-\begin{frame}{In the end......}
-	
-	\begin{alertblock}
-	%	\begin{center}
-			....
-	%	\end{center}
-	\end{alertblock}
+		\begin{frame}{Conclusion}
+	\begin{itemize}[<+- | alert@+>]
+		\item The refrigerator is a combination product of hardware and software
+		\item Cooperation: Every member is assigned with tasks
+		\item The performance is satisfactory
+	\end{itemize}
+\end{frame}
 
+}
+
+\begin{frame}
+\begin{center}
+	\Huge Q \& A
+\end{center}
 
 \end{frame}
-}
+
 
 \end{document}
