@@ -1,8 +1,8 @@
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
 \beamer@sectionintoc {2}{Equipment used}{5}{0}{2}
-\beamer@sectionintoc {3}{Methodology}{22}{0}{3}
-\beamer@sectionintoc {4}{Testing and Results}{31}{0}{4}
-\beamer@sectionintoc {5}{Strengths and Weakness}{33}{0}{5}
-\beamer@sectionintoc {6}{Problems we faced!!}{44}{0}{6}
-\beamer@sectionintoc {7}{Improvements}{46}{0}{7}
-\beamer@sectionintoc {8}{Conclusion}{51}{0}{8}
+\beamer@sectionintoc {3}{Methodology}{25}{0}{3}
+\beamer@sectionintoc {4}{Testing and Results}{34}{0}{4}
+\beamer@sectionintoc {5}{Strengths and Weakness}{36}{0}{5}
+\beamer@sectionintoc {6}{Problems we faced!!}{48}{0}{6}
+\beamer@sectionintoc {7}{Improvements}{50}{0}{7}
+\beamer@sectionintoc {8}{Conclusion}{55}{0}{8}

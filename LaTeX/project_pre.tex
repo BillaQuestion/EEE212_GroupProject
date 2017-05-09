@@ -9,6 +9,7 @@
 \usepackage{pgfplots}
 \usepgfplotslibrary{dateplot}
 \usepackage{multicol}
+\usepackage{gensymb}
 \usepackage{lipsum}
 \usepackage{graphicx}
 \usepackage{xspace}
@@ -50,10 +51,9 @@
 
 \title{EEE212 Industrial Awareness and Group Project}
 \subtitle{Smart Mini-Refrigrator}
-\date{\today}
+\date{\bfseries{\today}}
 %\date{}
-\author{Ali Khan, 1406769\\Lingxuan Kong, 1405867\\Rishabh Aggarwal, 1407014\\Shiyao Zhang, 1405896\\Yuhao Wang, 1405404\\Zuopeng Liu, 1406090}
-\institute{Department of Electrical and Electronics Engineering, XJTLU}
+\author{Ali Khan, 1406769\\Lingxuan Kong, 1405867\\Rishabh Aggarwal, 1407014\\Shiyao Zhang, 1405896\\Yuhao Wang, 1405404\\Zuopeng Liu, 1406090}	\institute{\textcolor{red}{\bfseries{Department of Electrical and Electronics Engineering, XJTLU}}}
 % \titlegraphic{\hfill\includegraphics[height=1.5cm]{logo.pdf}}
 
 \begin{document}
@@ -68,23 +68,25 @@
 \section{Introduction}
 {
 \begin{frame}[fragile]{Smart Mini-refrigerator}
-	T
+	\Huge{What is a smart refrigerator?}
 \end{frame}
 }
 
 
 \section{Equipment used}
 {	
-	\begin{frame}(For the Mini-Fridge...)
+	\begin{frame}{For the Mini-Fridge...}
 	The following are the major components of the refrigerator
 	\begin{enumerate}[<+- | alert@+>]
-		\item Peltier Module and Cooler
+		\item 12 V 6A Peltier Module and Cooler
 		\item Arduino
 		\item Relay
 		\item Temperature Probe/Sensor
 		\item Plexiglass
-		\item Power Supply
+		\item 12V 10A Power Supply
 		\item Foam Sheets
+		\item Hotglue gun
+		\item Pro'sKit Minidrill
 	\end{enumerate}
 \end{frame}
 }
@@ -155,7 +157,7 @@
 	\end{frame}
 }
 {
-	\begin{frame}[!h]
+	\begin{frame}
 		\frametitle{Magnetic Latching Relay}
 		\begin{figure}
 			\includegraphics[scale=0.15]{images/relay}
@@ -217,12 +219,17 @@
 
 \section{Testing and Results}
 {
-	\begin{frame}{How we tested our product!}
-		\begin{center}
-			\begin{alertblock}{
-					\bfseries{Temperature results and cooling duration\\}}
-			\end{alertblock}
-		\end{center}
+	\begin{frame}{How we tested our mini-fridge?}
+		Before assembling the circuit in the fridge, it was important that we tested the circuit and the thermoeletric cooler.\\
+		 The mini-fridge controls the temperature between $7\degree{C}$ and $3\degree{C}$\\
+		\vspace{5mm}
+		\textcolor{blue}{\bfseries{Peltier Module minimum temperature recorded outside: $-6\degree{C}$}}
+		
+		\vspace{5mm}
+		\textcolor{red}{\bfseries{Peltier Module minimum temperature recorded inside: $-0.5\degree{C}$}}\\
+		
+		\vspace{5mm}
+		After complete assembly of the mini-fridge, trials were conducted, each for 20-30 minutes, to check the cooling. The cooling of the fridge was found to be just satisfactory.
 	\end{frame}
 }
 
@@ -244,8 +251,9 @@
 			\item Peltier Module cooler efficiency is low
 			\item Improper Insulation
 			\item Non-Portable
-			\item Temperature Sensor sampling rate is small
 			\item Overall fridge is a little fragile
+			\item Overall Cooling is just satisfactory, the cooler is not efficient for the volume chosen
+			\item 
 		\end{itemize}
 	\end{frame}
 }
@@ -264,9 +272,9 @@
 {
 	\begin{frame}{What could we improve?}
 		\begin{itemize}[<+- | alert@+>]
+			\item Reduce the volume of the fridge
 			\item Better insulate the fridge
 			\item Use a more efficient thermoelectric cooler
-			\item Use a sensor with fast sampling rate
 			\item Have LED lighting inside the fridge
 		\end{itemize}
 	\end{frame}
@@ -276,9 +284,9 @@
 {
 		\begin{frame}{Conclusion}
 	\begin{itemize}[<+- | alert@+>]
-		\item The refrigerator is a combination product of hardware and software
-		\item Cooperation: Every member is assigned with tasks
-		\item The performance is satisfactory
+		\item The mini-fridge project combined both hardware and software skills
+		\item Utilized more than just Electrical and Electronics knowledge
+		\item The result performance is satisfactory: the volume is a little large
 	\end{itemize}
 \end{frame}
 
@@ -286,7 +294,8 @@
 
 \begin{frame}
 \begin{center}
-	\Huge Q \& A
+	\color{blue}
+	\bfseries{\Huge Q \& A}
 \end{center}
 
 \end{frame}
