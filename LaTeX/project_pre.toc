@@ -3,6 +3,6 @@
 \beamer@sectionintoc {3}{Methodology}{25}{0}{3}
 \beamer@sectionintoc {4}{Testing and Results}{34}{0}{4}
 \beamer@sectionintoc {5}{Strengths and Weakness}{36}{0}{5}
-\beamer@sectionintoc {6}{Problems we faced!!}{48}{0}{6}
-\beamer@sectionintoc {7}{Improvements}{50}{0}{7}
-\beamer@sectionintoc {8}{Conclusion}{55}{0}{8}
+\beamer@sectionintoc {6}{Problems we faced!!}{46}{0}{6}
+\beamer@sectionintoc {7}{Improvements}{48}{0}{7}
+\beamer@sectionintoc {8}{Conclusion}{53}{0}{8}

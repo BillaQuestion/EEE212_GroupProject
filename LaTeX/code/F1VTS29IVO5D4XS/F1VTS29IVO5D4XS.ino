@@ -22,11 +22,11 @@ void loop(void)
   sensors.requestTemperatures(); 
   Serial.print(sensors.getTempCByIndex(0));
   if (sensors.getTempCByIndex(0) < Low_temp){
-    /*Disconnect the relay module*/
+    /*Turn-off the relay module*/
     digitalWrite(Relay_Pin, HIGH);
    }
   if (sensors.getTempCByIndex(0) > High_temp){
-    /*Connect the relay module*/
+    /*Turn-on the relay module*/
     digitalWrite(Relay_Pin, LOW);
   }
 }
