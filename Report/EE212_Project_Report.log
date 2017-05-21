@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.15)  21 MAY 2017 21:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.15)  21 MAY 2017 21:35
 entering extended mode
 **./EE212_Project_Report.tex
 (EE212_Project_Report.tex
@@ -242,23 +242,29 @@ Package: appendix 2009/09/02 v1.2b extra appendix facilities
 \c@@ppsavesec=\count114
 \c@@ppsaveapp=\count115
 )
+(C:\Users\Bill\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(C:\Users\Bill\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
 (EE212_Project_Report.aux)
 \openout1 = `EE212_Project_Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 
 (C:\Users\Bill\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -352,7 +358,7 @@ G,.JBIG2,.JB2,.eps]
 <CoverSheet.pdf, id=1, 187.45132pt x 40.15pt>
 File: CoverSheet.pdf Graphic file (type pdf)
  <use CoverSheet.pdf>
-Package pdftex.def Info: CoverSheet.pdf used on input line 22.
+Package pdftex.def Info: CoverSheet.pdf used on input line 51.
 (pdftex.def)             Requested size: 281.17627pt x 60.22482pt.
  [1
 
@@ -375,34 +381,35 @@ Chapter 2.
 <relay.jpg, id=38, 1104.125pt x 1104.125pt>
 File: relay.jpg Graphic file (type jpg)
  <use relay.jpg>
-Package pdftex.def Info: relay.jpg used on input line 66.
+Package pdftex.def Info: relay.jpg used on input line 95.
 (pdftex.def)             Requested size: 110.41896pt x 110.41896pt.
 
 <peltier_effect.jpg, id=39, 94.84251pt x 102.05055pt>
 File: peltier_effect.jpg Graphic file (type jpg)
  <use peltier_effect.jpg>
-Package pdftex.def Info: peltier_effect.jpg used on input line 79.
+Package pdftex.def Info: peltier_effect.jpg used on input line 108.
 (pdftex.def)             Requested size: 132.7786pt x 142.86978pt.
 
 [3
 
  <./relay.jpg>] [4 <./peltier_effect.jpg>]
 Chapter 3.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 91.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 120.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 91.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 120.
 
 <mini_fridge_schem.pdf, id=46, 423.5825pt x 305.14pt>
 File: mini_fridge_schem.pdf Graphic file (type pdf)
 
 <use mini_fridge_schem.pdf>
-Package pdftex.def Info: mini_fridge_schem.pdf used on input line 108.
+Package pdftex.def Info: mini_fridge_schem.pdf used on input line 137.
 (pdftex.def)             Requested size: 423.58147pt x 305.13924pt.
 
-Overfull \hbox (5.32779pt too wide) in paragraph at lines 108--109
+Overfull \hbox (5.32779pt too wide) in paragraph at lines 137--138
  [][] 
  []
 
@@ -436,27 +443,35 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 (C:\Users\Bill\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-[13]
+(F1VTS29IVO5D4XS.ino
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 1.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 202.
- [14] (EE212_Project_Report.aux) ) 
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
+)
+[13] (EE212_Project_Report.aux) ) 
 Here is how much of TeX's memory you used:
- 6183 strings out of 493333
- 86318 string characters out of 3139197
- 194039 words of memory out of 3000000
- 9616 multiletter control sequences out of 15000+200000
- 10329 words of font info for 38 fonts, out of 3000000 for 9000
+ 5797 strings out of 493333
+ 82516 string characters out of 3139197
+ 232644 words of memory out of 3000000
+ 9220 multiletter control sequences out of 15000+200000
+ 10160 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,43p,931b,2119s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-r12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on EE212_Project_Report.pdf (16 pages, 1120471 bytes).
+ 39i,8n,49p,931b,1356s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on EE212_Project_Report.pdf (15 pages, 1128424 bytes).
 PDF statistics:
- 211 PDF objects out of 1000 (max. 8388607)
+ 212 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

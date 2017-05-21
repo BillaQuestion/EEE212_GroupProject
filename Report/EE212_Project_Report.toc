@@ -7,7 +7,8 @@
 \contentsline {chapter}{\numberline {3}Methodology}{5}
 \contentsline {section}{\numberline {3.1}Item List}{5}
 \contentsline {section}{\numberline {3.2}Circuit Schematic}{5}
-\contentsline {section}{\numberline {3.3}Procedure}{6}
+\contentsline {section}{\numberline {3.3}Code}{6}
+\contentsline {section}{\numberline {3.4}Procedure}{6}
 \contentsline {chapter}{\numberline {4}Result and Discussion}{8}
 \contentsline {section}{\numberline {4.1}Figure}{8}
 \contentsline {chapter}{\numberline {5}Improvement}{9}
