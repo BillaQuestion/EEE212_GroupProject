@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.29)  23 MAY 2017 21:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.29)  23 MAY 2017 21:49
 entering extended mode
 **"./EE212 groun_report.tex"
 ("EE212 groun_report.tex"
@@ -395,54 +395,54 @@ Missing character: There is no ’ in font cmr10!
 <peltier_effect.jpg, id=45, 94.84251pt x 102.05055pt>
 File: peltier_effect.jpg Graphic file (type jpg)
  <use peltier_effect.jpg>
-Package pdftex.def Info: peltier_effect.jpg used on input line 99.
+Package pdftex.def Info: peltier_effect.jpg used on input line 105.
 (pdftex.def)             Requested size: 132.7786pt x 142.86978pt.
 
 <relay.jpg, id=46, 1104.125pt x 1104.125pt>
 File: relay.jpg Graphic file (type jpg)
  <use relay.jpg>
-Package pdftex.def Info: relay.jpg used on input line 113.
+Package pdftex.def Info: relay.jpg used on input line 119.
 (pdftex.def)             Requested size: 85.35826pt x 85.34978pt.
  [4 <./peltier_effect.jpg>] <semiconductor.jpg, id=51, 853.1875pt x 998.73125pt
 >
 File: semiconductor.jpg Graphic file (type jpg)
 
 <use semiconductor.jpg>
-Package pdftex.def Info: semiconductor.jpg used on input line 124.
+Package pdftex.def Info: semiconductor.jpg used on input line 130.
 (pdftex.def)             Requested size: 170.71652pt x 199.83414pt.
  [5 <./relay.jpg> <./semiconductor.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 131.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 137.
 
 
 ("F:\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 131.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 137.
 
 <thermo_cooler.jpg, id=55, 602.25pt x 602.25pt>
 File: thermo_cooler.jpg Graphic file (type jpg)
  <use thermo_cooler.jpg>
-Package pdftex.def Info: thermo_cooler.jpg used on input line 148.
+Package pdftex.def Info: thermo_cooler.jpg used on input line 154.
 (pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
 
 <arduino_nano.png, id=56, 1565.85pt x 1245.65375pt>
 File: arduino_nano.png Graphic file (type png)
  <use arduino_nano.png>
-Package pdftex.def Info: arduino_nano.png used on input line 154.
+Package pdftex.def Info: arduino_nano.png used on input line 160.
 (pdftex.def)             Requested size: 113.81102pt x 90.53091pt.
 
 <sensor.jpg, id=57, 144.54pt x 144.54pt>
 File: sensor.jpg Graphic file (type jpg)
  <use sensor.jpg>
-Package pdftex.def Info: sensor.jpg used on input line 162.
+Package pdftex.def Info: sensor.jpg used on input line 168.
 (pdftex.def)             Requested size: 113.81102pt x 113.8104pt.
 
 <mini_fridge_schem.pdf, id=58, 423.5825pt x 305.14pt>
 File: mini_fridge_schem.pdf Graphic file (type pdf)
 
 <use mini_fridge_schem.pdf>
-Package pdftex.def Info: mini_fridge_schem.pdf used on input line 172.
+Package pdftex.def Info: mini_fridge_schem.pdf used on input line 178.
 (pdftex.def)             Requested size: 423.58147pt x 305.13924pt.
  [6 <./thermo_cooler.jpg> <./arduino_nano.png> <./sensor.jpg>] [7 <./mini_fridg
 e_schem.pdf>]
@@ -450,25 +450,25 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no ˆ in font cmr12!
 Missing character: There is no ’ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
 [8] [9] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 238--240
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
 
  []
 
 [11] [12] <fridge1.jpg, id=194, 4657.4pt x 3493.05pt>
 File: fridge1.jpg Graphic file (type jpg)
  <use fridge1.jpg>
-Package pdftex.def Info: fridge1.jpg used on input line 260.
+Package pdftex.def Info: fridge1.jpg used on input line 266.
 (pdftex.def)             Requested size: 312.9803pt x 234.73135pt.
 
 <fridge2.jpg, id=195, 3492.04625pt x 3061.4375pt>
 File: fridge2.jpg Graphic file (type jpg)
  <use fridge2.jpg>
-Package pdftex.def Info: fridge2.jpg used on input line 266.
+Package pdftex.def Info: fridge2.jpg used on input line 272.
 (pdftex.def)             Requested size: 312.9803pt x 274.34964pt.
  [13 <./fridge1.jpg> <./fridge2.jpg>] [14]
 (C:\Users\Bill\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
@@ -501,9 +501,9 @@ jfour\jknappen\ec\dpi600\ecbx1200.pk><F:/MiKTeX 2.9/fonts/type1/public/amsfonts
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><F:/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmr12.pfb><F:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb><F:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "EE212 groun_report.pdf" (16 pages, 8266469 bytes).
+Output written on "EE212 groun_report.pdf" (16 pages, 8271906 bytes).
 PDF statistics:
- 627 PDF objects out of 1000 (max. 8388607)
+ 640 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
