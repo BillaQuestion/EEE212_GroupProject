@@ -99,7 +99,7 @@ Home appliances have become a necessary part of our lives, providing comfort and
 
 \section{Background Methodology}
 \subsection{Peltier Effect}
-The Peltier effect can be described as the temperature difference created when voltage is applied between two pieces of electrodes or conductors, which are directly connected to a semiconductor [1]. It is also called the Thermoelectric effect, as a thermoelectric device is used to create a voltage difference in most cases. The Peltier effect allows heat or cold to be transferred from one medium to the other, utilizing the current flow between the two conductors. The figure below illustrates the Seebeck Circuit, which is used in cooling applications such as refrigerators. 
+The Peltier effect can be described as the temperature difference created when voltage is applied between two pieces of electrodes or conductors, which are directly connected to a semiconductor. It is also called the Thermoelectric effect, as a thermoelectric device is used to create a voltage difference in most cases. The Peltier effect allows heat or cold to be transferred from one medium to the other, utilizing the current flow between the two conductors. The figure below illustrates the Seebeck Circuit, which is used in cooling applications such as refrigerators. 
 
 \begin{figure}[H]
 	\centering
@@ -110,7 +110,7 @@ The Peltier effect can be described as the temperature difference created when v
 
 \subsection{Relay}
 A relay is an electrically operated switch, switch on/off
-mechanically using electromagnets [2].\\
+mechanically using electromagnets.\\
 Relays are used where it is necessary to control a circuit by a specific
 low-power signal. For our project, we used a Magnetic Latching Relay
 with a single coil. The relay operates in one direction when power is
@@ -123,7 +123,7 @@ applied with one polarity, and will reset when polarity is reversed.
 
 \subsection{Semiconductor}
 According to the Peltier effect, we could used a semiconductor to build the cooling system in this refrigerator. The efficiency of the amount of cold on a semiconductor depends on the energy differential of two materials in charge carrier motion, which is also called thermoelectric difference. It is known that pure metal has good thermal conductivity but a low refrigeration efficiency. However, semiconductor materials have very high thermoelectric potential, which could be used in a small thermoelectric refrigerator.\\
-According to the knowledge learned in EEE211, P-type semiconductor and N-type semiconductor has the maximum thermoelectric difference [3].\\
+According to the knowledge learned in EEE211, P-type semiconductor and N-type semiconductor has the maximum thermoelectric difference.\\
 The figure 1 illustrates the semiconductor in the seebeck circuit, as a part of the peltier effect. According to this figure, we find that the P-pole has holes with positive charge and N-pole has electrons with negative charge. When these charges and holes moving in the P-N junction, there will be a potential difference between two poles creating a current. 
 As the following picture shows, this is the semiconductor that we used:
 \begin{figure}[H]
@@ -272,12 +272,12 @@ The second one is changing the insulating material. It is not practical to apply
 \end{figure}
 
 
-
 \section{Conclusion}
 The aim of the project was to build a mini-refrigerator that could cool three or four cans of drinks. The fridge must be controlled automatically, with manual touch. We used thermoelectric cooler, relay, Arduino, temperature sensor, and others to assemble the fridge. A simple feedback circuit with Arduino codes was implemented to control temperature inside. The assembled refrigerator could reach -0.5 Celsius. Our fridge is simple, powerful, and smart with a large amount of volume. However, it is inefficient, improperly insulated, non-portable, and fragile. Meanwhile, we have faced several problems including how to choose an appropriate power supply and cooler, how to choose a suitable range of temperature, and so on. As future expansion, we could: add LED lights, reduce volume for higher efficiency, use a more powerful cooler, and make the design more compact.
-
-\section{References}
-
+\newpage
+\bibliographystyle{IEEEtran}
+\nocite{*}
+\bibliography{ref}
 \newpage
 \section{Appendices}
 \lstinputlisting[language = C++]{F1VTS29IVO5D4XS.ino}
